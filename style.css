@@ -1,0 +1,85 @@
+.start3 {
+    background-image: url(./zSlides1.jpg);
+    background-repeat: no-repeat;
+background-size: 2100px 490px;
+}
+
+#subtitle {
+    color:white;
+    font-family: Calibri;  
+    font-size:20px;
+}
+#explanation {
+    background-image: url(./zSeconBack.jpg);
+background-size: 2100px 220px;
+color: white;
+}
+.Ssolutions {
+    font-size: 15px;
+    color: white;
+}
+.start {
+background-image: url(./zFirstBack.jpg);
+background-repeat: no-repeat;
+background-size: 2100px 490px;
+}
+#title {
+    color:white;
+    text-align: center;
+    font-family: Impact;
+}
+
+.Ssolutions a:link{
+    color:white;
+}
+.Ssolutions a:visited{
+    color:red;
+}
+.Ssolutions a:hover{
+    color:hotpink;
+}
+
+html {
+    background-image: url(./zfullback.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+background-size: 2100px 1000px; 
+}
+.start4,
+.start5,
+.start6,
+.start3 {
+color:white;
+}
+.next,
+.next1,
+.next2 {
+ color: white;   
+}
+.back,
+.back1,
+.back2
+{
+    float:right;
+    color:white;
+}
+#slide2 {
+    background-image: url(./zBackSlides2.jpg);
+    background-repeat: no-repeat;
+background-size: 2100px 490px;
+}
+#slide3 {
+    background-image: url(./zBackSlides3.jpg);
+    background-repeat: no-repeat;
+background-size: 2100px 490px;
+}
+#slide4 {
+    background-image: url(./zBackSlides4.jpg);
+    background-repeat: no-repeat;
+background-size: 2100px 490px;
+}
+.video1 {
+    color:white;
+}

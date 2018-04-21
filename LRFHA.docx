@@ -1,0 +1,135 @@
+In the 1960's the visions of the future 2000's and beyond were radically different from what our present is. In their fantasies of the future there were space hotels, colonization of Mars, Space tourism. In our present we have small box-like devices which we can use to communicate to anyone around the world virtually instantly along with conjuring the power of the internet at our fingertips, thousands of databases swirling around our fingers and with it millions of distractions. Yet why is our present so different than what is was predicted to be? The answer is simple, a lack of interest. During the cold war, NASA was founded, the space race was given priority. Once NASA was founded the percentage of the overall US G.D.P given to NASA rose from 0.1% in 1.05% in 1991. Coincidentally, in 1991 when the USSR fell the budget for NASA also collapsed going to 1.01% of the federal budget in 1992 and then worked its way down to 0.47% in 2017. Other technological advances received greater priority, the world invested more in mobile and cellular technology. Space interest was degrading until corporate companies started reviving interest close to a quarter century after the peak in space interest. Corporate startups such as SpaceX managed to achieve more about cost-effective rockets than NASA had done in close to 60 years. 
+
+Companies such as the ULA with experienced backing managed to carry out NASA missions, corporate companies such as Blue Origin, Orbital ATK and Rocket Labs USA started showing more innovations then governments which were backed by trillions of dollars. It's not like space has nothing to offer us, space gave us our perspective on light, speed and the possibility of alien worlds as well as enabling us instant communication via satellites. There is plenty of space to explore, the problem is simply the interest in exploring it needs to be much greater. Young children look up to the sky, wanting to push the frontiers of space, want to adventure, want to be astronauts only to end up as something else. However, as important as renewed and improved interest in space is, one of its byproducts could be much more interesting. Commercial rockets.  For more than a decade the price of rockets was the same compared to what it was in 1991, until corporations like SpaceX came in and revolutionized the business with their inventions. 
+
+Reusable rockets, parts manufactured in the factory as to avoid markup. Yet with all their efforts and the promises of Elon Musk, Dennis Muilenburg, George T. Whitesides commercial rockets haven't arrived. But all they need are a few more innovative ideas to hack the towering costs to launch a vehicle into space. Currently the most expensive point of the trip is from the launch altitude to the edge of the atmosphere an approximate 70% of the cost. However, one way to make the percentage go down would simply be to make the launch point closer to the edge of the atmosphere. 39,000 feet closer to be precise. Launch a rocket from 12 kilometers above sea level.
+
+
+
+
+
+
+Launching a rocket from 39,000 feet isn't unexplored with Orbital ATK's Pegasus rocket executing a launch on December 15th, 2016. However, Pegasus rocket only weighed 23,100 kilograms. By comparison, SpaceX's Falcon 9 weighs 549,054 kilograms. The maximum takeoff weight for the Airbus A380 is 572,000 kgs with the Spec Operating Empty Weight (the basic weight of an aircraft which includes all fluids necessary for operation such as unusable fuel, engine coolant, engine water, oil, and all equipment and operator items needed for the flight excluding usable fuel and payload) is typically 277,000. Fuel weight for takeoff is further estimated to be 2600 kgs. This leaves the aircrafts total weight to be approximately 270,000 (with more fuel in the plane for landings and fuel for emergencies. If a Airbus A380 attempted to carry a Falcon 9 into the plane's cruising altitude (39,000 feet) it would need some help from the Merlin 1C engines aboard the Falcon 9. A Airbus A380's thrust is about 282 kN. The Falcon 9's thrust is 482 kN. However, since the Airbus A380 would have to carry more than its maximum capacity the thrust gets reduced to 125 kN of thrust. 
+
+(396,890 (max⁡〖takeoff capacity)〗)/█(270,000 (fuel for take off,airtime and landing,since 12 kg is used per mile of airtime @and the extra is just in case something fails@≈@1 47/100 reduced capacity@=@(363 kN)/█(147/100@≈@247 kN))
+
+
+Additionally, the Airbus A380 average speed is 885 kph at cruising speed as compared to Falcon 9's 1700 kph speed at the Airbus A380's cruising altitude. With the Airbus A380 possessing apprxomately 1/3 of the Falcon 9's merlin engines thrust and only ½  of Falcon 9's speed. 
+
+Plane force = 247 kN
+Rocket force = 482kN
+Rocket Velocity = 1700 kph
+Plane Velocity = 1100 kph
+
+pf/rf*rv/pv
+  
+247/480*1100/1700 ≈ 1/3 necessary power needed to lift of to 12 km = 2/3 fuel saved in first 12 km
+
+Furthermore, this saves fuel at the point of highest atmospheric pressure. The atmospheric pressure exerted here is approximately 2 times more than the average (495 millibars)
+
+1000 (surface level pressure)-10 (beginning mesospheric pressure)=990 (∆in atmospheric pressure). 
+990/(68.6 (altitude at MECO) )*34.3=495 approximate atmospheric pressure
+1000/495≈2 (multiplier of pressure added)
+2*2/3=4/3
+(4/3)/(68.6/120)=40/30*120/686= 0.23
+23/100 fuel saved from carry rocket to max⁡〖q 〗
+
+
+
+However the benefits of the fuel saved extend beyond that as at Max Q the rocket is experiencing 1 millibar of pressure. If the rocket launches from Max Q it only takes 8 km to reach 200 millibars of pressure as compared to 20km is launching from the ground level. The pressure keeps dropping and at MECO pressures are less than 10 millibars, nearly 1% of Earth's atmosphere. Its estimated that going to MECO exerts close to a total of 27,255 millibars of pressure. However, it is also further estimated that launching from 12 km up saves 7765 millibars of pressure (1100/1700 (speed) *12000 (millibars)). 
+
+The atmospeheric pressure difference between surface level and the very beginning of the Mesophere (68.6 km) is 990 millibars. It is further estimated that the total pressure exerted on the rocket reaches about 33,957 millibars (if rocket travels at constant pace). However, the estimate for the total pressure exerted till Max-Q is only 12,000 millibars (if rocket travels at constant pace). However, since the rocket is not travelling at a constant pace the extra speed between Max-Q and MECO is approximately 4.57142857 faster pressure at Max-Q over the total pressure approximately equals 11/125. This result indicates that launching from a higher altitude saves a further 8.8% of fuel with the fuel weight being 80% of an overall 550 ton rocket. 
+
+1000 (surface level pressure)-10 (beginning mesospheric pressure)=990  
+(990 pressure loss)/2*68.6 (altitude)=33,957 total mb pressure. 
+Total pressure till Max-Q=1000 (constant pressure from surface level to 39,000 feet)*12 (km)=12,000 mb pressure
+Average speed till Max Q:(1450 (average max⁡〖speed)〗)/(12 (kilometers) )*6 (half,average)= 725
+Average speed after Max Q:5940 (speed at MECO)-1450 (average max⁡〖speed at Max Q)=4100 (∆speed)〗  
+((4100 )/(55 (∆kilometers from Max Q to MECO))*22.5 (half,average)+1450 (max⁡〖Q top speed)〗)/1450≈2.16 multiplier of pressure because of increase of speed 
+
+(12,000 (max⁡〖Q pressure)〗)/(2.16 (multiplier)*33957(total pressure) )≈1/6 total fuel saved because less air pressure exerted 
+23/100(fuel saved from carrying rocket to max⁡〖q)〗+1/6  (total fuel saved because less pressure is exerted)≈4/(10 )  total fuel saved.
+10/10 fuel=80% of rocket mass
+4/10 fuel=32% of rocket^' s mass saved
+32% of rocket^' s mass≈175,700 tons of fuel saved for the rocket
+=175,700 tons for more payload
+≈6.23 times more payload to LEO,175,700/22,800
+
+ 
+ 
+
+
+
+
+ 
+
+One more major benefit of using aerial drones to land is that it allows other space organizations such as ULA, ESA, NASA, ISRO and others to forgo the complex coding for the vertical landing as well as reducing the possibility of the initial failures trying out a new system the first time. If all rockets used this system we would save x, y and z on it.
+
+The new technologies would be a; restartable ignition system, hypersonic grid fins, improved altitude control systems. A restartable ignition system is necessary for for restarting the engine in supersonic velocities at the upper atmosphere, as to reduce the upward velocity as well as directing the spacecraft back to the landing pad. Furthermore, it is required to restart a second time at high transonic velocities in the lower atmosphere in order to slow the terminal descent and keep the spacecraft at a velocity where landing is necessary. Furthermore, hypersonic grid fins are added to the vehicle to guide it on its course to the landing pad. Altitude control technology is responsible for sufficient roll control authority to prevent the spacecraft for spinning excessively. The technology needs to handle the transition between the vacuum of space ay hypersonic velocities, decreasing to supersonic conditions and passing through the transonic buffet before relighting on of the main engines. The boostback burns are necessary to stabilize the rocket's descent to best accomplish a soft landing as the rocket's velocity at detachment reach Mach 10 in the falcon 9. 
+
+There are a lot of prospective benefits regarding launching rockets from 39,000 feet above sea level in the perspective of frugality. 12 kilometers is usually where the highest aerodynamic pressure is exerted on the rocket, also called Max Q. Launching from that altitude guarantees that which each kilometer upward the aerodynamic pressure lessens. The drop in aerodynamic pressure exerted upon a surface leads to a possibility in reducing the payload fairing or heat shields ability to withstand pressure which results in spending less money developing it. Currently the PLF's are manufactured at an estimated $6 million at best for missions to Low Earth Orbit and beyond. The money gained in reducing its overall effectiveness yet still being certain it will be able to withstand the maximum aerodynamic pressure exerted on it would be yet another step in the progress of commercial rockets especially since payload fairings are essentially meant to be used only once. Hundreds of thousands of dollars saved repetitively is an attractive outcome for virtually everybody. In addition the aerodynamic pressure will not only be reduced on the payload fairing, but it would be reduced on the first stage body. A part in which some companies is reused and lessening's of aerodynamic pressure allows the refurbishment costs to be lower and the rocket to be flown more times resulting in millions of dollars saved.  However, launching from higher altitudes doesn't just save refurbishment money, it allows the rocket to carry less fuel to get to the main engine cutoff point. Furthermore, as fuel counts as close to 80% of the rockets overall weight, a reduction in fuel means a reduction in weight of the rocket which frees up more weight to be used for payload. 90 tonnes. Which also about approximately four times the current payload capacity to Low Earth Orbit. A 400% increase on the payload capacity allows satellite making companies to become more sophisticated with their design thus enabling us to wirelessly connect with other people faster as well as enabling satellites better camera capacity. Better software analysis in the air and overall a surplus of features that could be used in Google Maps, the NSA or NASA to improve our lifestyle in their own distinct way. Additionally, the surplus of features can highlight the fact that space has a lot more to offer than we can comprehend and if we start investing in ways to sophisticate our interaction with the frontiers of the universe we will be able to improve, enhance and understand our lifestyle and the history of life. 
+
+
+Furthermore, as Elon Musk says "Showing that you can launch a giant rocket and having it be commercially viable, carry satellites, potentially carry people… can help get the public excited about space again". Furthermore, as the CEO of the planetary society, Bill Nye puts it "the ability to launch giant satellites into orbit also helps us answer the two questions we have all asked.  Where do we come from, how did we get here and are we alone in the universe". And if you want to answer these two questions you have to explore space". The possibility of using more advanced telescopes let's us go deeper in space to try and unravel the mysteries of space that have long evaded us and mysteries that have been theorized for thousands of years. The deeper we go into space the more we learn about our life, dark matter, dark energy. Questions that have tormented us for our entire existence are within our reach. To manage to oustretch our grasp further and capture the elusive mysteries lurking in space we need to reestablish our interest in space. Because space is the answer to life.
+
+
+
+
+
+
+
+1999-2010 based on federal outlays from: Federal budget (United States)#Total outlays in recent budget submissions
+https://www.theguardian.com/news/datablog/2010/feb/01/nasa-budgets-us-spending-space-travel
+
+
+	
+Westbrook, Justin T. "SpaceX's Landing Drone Ship Is Just As Complicated As The Rocket." Foxtrot Alpha, Foxtrotalpha.jalopnik.com, 9 Apr. 2016, foxtrotalpha.jalopnik.com/spacexs-landing-drone-ship-is-just-as-complicated-as-th-1769987148.
+
+ 
+
+
+
+Belfiore, Michael (September 30, 2013). "Musk: SpaceX Now Has "All the Pieces" For Truly Reusable Rockets". Popular Mechanics. Retrieved October 17,2013.
+
+
+http://www.modernairliners.com/airbus-a380/airbus-a380-specs/
+
+http://thesurge.com/stories/much-fuel-used-flight-takeoff
+
+
+
+
+
+Musk, Elon, director. How Not to Land an Orbital Rocket Booster. How Not to Land an Orbital Rocket Booster, SpaceX, 14 Sept. 2017, www.youtube.com/watch?v=bvim4rsNHkQ. 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Picture of stratolaunch carrier
+
+ 
+
+
+
+
+
+
+
+
+
